@@ -13,6 +13,8 @@ In this repo, you can find collection of questions(programs) that are required f
   - `git commit -m "YOUR-MESSAGE"`
   - `git push`
 
+✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill in the details and submit the pull request for review.
+
 # Notes : 
 - Code should only be in either of `JavaScript`, `C` or `PHP`.
 - If bug or error is found, PR will be labeled `invaild`.
