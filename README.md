@@ -16,4 +16,4 @@ In this repo, you can find collection of questions(programs) that are required f
 ✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill <br /> in the details and submit the pull request for review.
 
 # Note
- `As I am the only maintainer I can't check weather the code <br/> has bug/error or not, So please try to upload error free code.`
+As I am the only maintainer I can't check weather the code has bug/error or not, So <br/> please try to upload error free code.
