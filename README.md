@@ -13,4 +13,7 @@ In this repo, you can find collection of questions(programs) that are required f
   - `git commit -m "YOUR-MESSAGE"`
   - `git push`
 
-✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill in the details and submit the pull request for review.
+✨ Submit a pull request: Go to your forked repository on GitHub and click "New pull request". Fill <br /> in the details and submit the pull request for review.
+
+# Note
+ `As I am the only maintainer I can't check weather the code <br/> has bug/error or not, So please try to upload error free code.`
