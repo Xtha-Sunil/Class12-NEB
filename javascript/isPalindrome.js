@@ -1,0 +1,23 @@
+function isPalindrome(string) {
+  let left = 0;
+  let right = string.length - 1;
+
+  while (left < right) {
+    if (string[left] !== string[right]) {
+      return false;
+    }
+    left += 1;
+    right -= 1;
+  }
+
+  return true;
+}
+
+const stringOne = 'hello';
+const stringTwo = 'wow';
+
+const resultStringOne = isPalindrome(stringOne);
+console.log(resultStringOne); // false
+
+const resultStringTwo = isPalindrome(stringTwo);
+console.log(resultStringTwo); // true
