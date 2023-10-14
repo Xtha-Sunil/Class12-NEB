@@ -1,0 +1,3 @@
+*.exe
+/c/File Handling/pass.dat
+/c/File Handling/fail.dat
