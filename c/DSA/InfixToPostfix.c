@@ -38,7 +38,8 @@ char pop(struct stack *p) {
         // printf("Stack Underflow\n");
         // Return -1 to indicate an empty stack
         return -1;
-    } else {
+    }
+    else {
         x = p->item[p->top];
         p->top--;
         return x;
@@ -50,7 +51,8 @@ char top_of_stack(struct stack *p) {
     if (is_empty(p)) {
         // printf("Stack Underflow\n");
         return -1;
-    } else {
+    } 
+    else {
         // Get the top item
         x = p->item[p->top];
         return x;
