@@ -17,4 +17,5 @@ function bubbleSort(&$arr) {
 
 $arr = [64, 34, 25, 12, 22, 11, 90]; // Example array
 
-echo "Unsorted array: " . implode(", ", $arr) . "\
+echo "Unsorted array: " . implode(", ", $arr) . "\n";
+
